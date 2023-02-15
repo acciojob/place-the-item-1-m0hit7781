@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	justify-content: space-between;
+}
+
+.holder div{
+	height: 100px;
+	width: 100px;
+}
+
+#item-1{
+	background: cyan;
+	font-size: 30px;
+}
+
+#item-2{
+	background: lightcoral;
+	font-size: 30px;
+}
+
+#item-3{
+	background: orangered;
+	font-size: 30px;
+}
